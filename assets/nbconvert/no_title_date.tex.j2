@@ -1,0 +1,27 @@
+((* extends 'latex/base.tex.j2' *))
+
+((* block title *))
+% no title
+((* endblock title *))
+
+((* block date *))
+\date{}
+((* endblock date *))
+
+((* block author *))
+% no author
+((* endblock author *))
+
+((* block maketitle *))
+% no maketitle
+\setlength{\parskip}{0.75em}
+\setlength{\parindent}{0pt}
+((* endblock maketitle *))
+
+((* block bibliography *))
+\makeatletter
+\immediate\write\@auxout{\string\citation{dummy_nbconvert_ref}}
+\immediate\write\@auxout{\string\bibstyle{plain}}
+\immediate\write\@auxout{\string\bibdata{notebook}}
+\makeatother
+((* endblock bibliography *))
