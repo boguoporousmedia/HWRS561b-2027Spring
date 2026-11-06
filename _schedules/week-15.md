@@ -2,15 +2,15 @@
 title: Week 15
 ---
 
-Apr 20
-: Transport of PFAS in the vadose zone.
+Mon, Apr 19, 2027
+: **Lecture 33.** Transport of PFAS in the vadose zone.
+: Slides: [PDF]({{ "/assets/lecture_slides/PFAS_2.pdf" | relative_url }})
+: **Assigned (tentative):** HW 6: Contaminant transport. [PDF]({{ "/assets/homework/homework6.pdf" | relative_url }}), [Jupyter Notebook]({{ "/assets/homework/homework6.ipynb" | relative_url }})
 
-Apr 22
-: Transport of PFAS in the vadose zone.
+Wed, Apr 21, 2027
+: **Lecture 34.** Transport of PFAS in the vadose zone.
+: Slides: [PDF]({{ "/assets/lecture_slides/PFAS_2.pdf" | relative_url }})
 
-Apr 24
-: Transport of PFAS in the vadose zone.
-
-Lecture slides: [PDF](../assets/lecture_slides/PFAS_2.pdf)
-
-Homework 6: [PDF]({{ "/assets/homework/homework6.pdf" | relative_url }}), <a href='{{ "/assets/homework/homework6.ipynb" | relative_url }}' download='homework6.ipynb'>Jupyter Notebook</a>
+Fri, Apr 23, 2027
+: **Lecture 35.** Transport of PFAS in the vadose zone.
+: Slides: [PDF]({{ "/assets/lecture_slides/PFAS_2.pdf" | relative_url }})

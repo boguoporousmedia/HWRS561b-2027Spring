@@ -1,21 +1,18 @@
 ---
 title: Week 06
-module_title: "Module 2: Pore-scale controls and macroscopic description of variably saturated flow"
 ---
 
-Feb 16
-: Pore-scale fluids distribution (capillary tubes)
+Mon, Feb 15, 2027
+: **Lecture 12.** Pore-scale fluids distribution (capillary tubes)
+: Slides: [unannotated PDF]({{ "/assets/lecture_slides/Pore-scale_fluids_distribution_wo_annotation_1.pdf" | relative_url }}), [annotated PDF (2026)]({{ "/assets/lecture_slides/Pore-scale_fluids_distribution_w_annotation_1.pdf" | relative_url }})
 
-Feb 18
-: Pore-scale fluids distribution (capillary tubes)
+Wed, Feb 17, 2027
+: **Lecture 13.** Macroscopic descriptions of air/water distribution
+: Slides: [unannotated PDF]({{ "/assets/lecture_slides/Macroscopic_description&porous_medium_models_wo_annotation_1.pdf" | relative_url }}), [annotated PDF (2026)]({{ "/assets/lecture_slides/Macroscopic_description&porous_medium_models_w_annotation_1.pdf" | relative_url }})
 
-Feb 19
-: **Homework due**
-: **Due**{: .label .label-purple} HW 2: Solute transport 2
+Thu, Feb 18, 2027
+: **Due**{: .label .label-purple} **Tentative homework deadline, 10:00 pm MST:** HW 2: Solute transport 2.
 
-Feb 20
-: Macroscopic descriptions of air/water distribution
-
-Lecture slides (same as Feb 11): [PDF(no annotation)](../assets/lecture_slides/Pore-scale_fluids_distribution_wo_annotation_1.pdf), [PDF(w annotation)](../assets/lecture_slides/Pore-scale_fluids_distribution_w_annotation_1.pdf)
-
-Homework 3: [PDF]({{ "/assets/homework/homework3.pdf" | relative_url }}), <a href='{{ "/assets/homework/homework3.ipynb" | relative_url }}' download='homework3.ipynb'>Jupyter Notebook</a>
+Fri, Feb 19, 2027
+: **Lecture 14.** Macroscopic descriptions of air/water distribution
+: Slides: [unannotated PDF]({{ "/assets/lecture_slides/Macroscopic_description&porous_medium_models_wo_annotation_1.pdf" | relative_url }}), [annotated PDF (2026)]({{ "/assets/lecture_slides/Macroscopic_description&porous_medium_models_w_annotation_1.pdf" | relative_url }})

@@ -2,17 +2,15 @@
 title: Week 13
 ---
 
-Apr 6
-: Inverse modeling using HYDRUS-1D
+Mon, Apr 5, 2027
+: **Lecture 27.** Inverse modeling using HYDRUS-1D
+: Slides: [PDF]({{ "/assets/lecture_slides/Inverse_modeling_2.pdf" | relative_url }})
+: **Assigned (tentative):** HW 5: Use HYDRUS-1D to understand unsaturated flow. [PDF]({{ "/assets/homework/homework5.pdf" | relative_url }}), [Jupyter Notebook]({{ "/assets/homework/homework5.ipynb" | relative_url }})
 
-Apr 8
-: Unsaturated flow in multidimensions.
+Wed, Apr 7, 2027
+: **Lecture 28.** Unsaturated flow in multidimensions.
+: Slides: [PDF]({{ "/assets/lecture_slides/Multidimensional_unsat_flow.pdf" | relative_url }})
 
-Apr 10
-: Solute transport with unsaturated flow.
-
-Lecture slides (April 6): [PDF](../assets/lecture_slides/Inverse_modeling_2.pdf)
-Lecture slides (April 8): [PDF](../assets/lecture_slides/Multidimensional_unsat_flow.pdf)
-Lecture slides (April 10): [PDF](../assets/lecture_slides/Unsat_solute_transport.pdf)
-
-Homework 5: [PDF]({{ "/assets/homework/homework5.pdf" | relative_url }}), <a href='{{ "/assets/homework/homework5.ipynb" | relative_url }}' download='homework5.ipynb'>Jupyter Notebook</a>
+Fri, Apr 9, 2027
+: **Lecture 29.** Solute transport with unsaturated flow.
+: Slides: [PDF]({{ "/assets/lecture_slides/Unsat_solute_transport.pdf" | relative_url }})

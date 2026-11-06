@@ -2,13 +2,14 @@
 title: Week 17
 ---
 
-May 4
-: Review (no lecture)
+Mon, May 3, 2027
+: Course review
 
-May 6
-: Review (no lecture)
+Wed, May 5, 2027
+: Course review
 
-May 8
-: Final exam.
+Thu, May 6, 2027
+: Reading Day; no classes.
 
-Lecture slides: [PDF]()
+Fri, May 7, 2027
+: Final exam, 1:00 to 3:00 pm MST. See the official Spring 2027 final-exam schedule linked above.

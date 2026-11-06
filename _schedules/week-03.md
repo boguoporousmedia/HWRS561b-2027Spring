@@ -2,13 +2,15 @@
 title: Week 03
 ---
 
-Jan 26
-: Conservative solute transport: Analytical solutions, breakthrough curves.
+Mon, Jan 25, 2027
+: **Lecture 3.** Conservative solute transport: Analytical solutions, breakthrough curves.
+: Slides: [unannotated PDF]({{ "/assets/lecture_slides/Solute_transport-wo-annotation_2.pdf" | relative_url }}), [annotated PDF (2026)]({{ "/assets/lecture_slides/Solute_transport-w-annotation_2.pdf" | relative_url }})
+: **Assigned (tentative):** HW 1: Solute transport 1. [PDF]({{ "/assets/homework/homework1.pdf" | relative_url }}), [Jupyter Notebook]({{ "/assets/homework/homework1.ipynb" | relative_url }})
 
-Jan 28
-: No class (Bo traveling)
+Wed, Jan 27, 2027
+: **Lecture 4.** Conservative solute transport: Analytical solutions, breakthrough curves.
+: Slides: [unannotated PDF]({{ "/assets/lecture_slides/Solute_transport-wo-annotation_3.pdf" | relative_url }}), [annotated PDF (2026)]({{ "/assets/lecture_slides/Solute_transport-w-annotation_3.pdf" | relative_url }})
 
-Jan 30
-: No class (Bo traveling)
-
-Lecture slides: [PDF(no annotation)](../assets/lecture_slides/Solute_transport-wo-annotation_2.pdf), [PDF(w annotation)](../assets/lecture_slides/Solute_transport-w-annotation_2.pdf)
+Fri, Jan 29, 2027
+: **Lecture 5.** Conservative solute transport: Analytical solutions, breakthrough curves.
+: Slides: [unannotated PDF]({{ "/assets/lecture_slides/Solute_transport-wo-annotation_3.pdf" | relative_url }}), [annotated PDF (2026)]({{ "/assets/lecture_slides/Solute_transport-w-annotation_3.pdf" | relative_url }})

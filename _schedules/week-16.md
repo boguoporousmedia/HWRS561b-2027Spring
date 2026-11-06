@@ -2,17 +2,17 @@
 title: Week 16
 ---
 
-Apr 27
-: Transport of PFAS in the vadose zone.
+Mon, Apr 26, 2027
+: **Lecture 36.** Transport of PFAS in the vadose zone.
+: Slides: [PDF]({{ "/assets/lecture_slides/PFAS_3.pdf" | relative_url }})
 
-Apr 29
-: Transport of PFAS in the vadose zone.
+Wed, Apr 28, 2027
+: **Lecture 37.** Transport of PFAS in the vadose zone.
+: Slides: [PDF]({{ "/assets/lecture_slides/PFAS_3.pdf" | relative_url }})
 
-Apr 30
-: **Homework due**
-: **Due**{: .label .label-purple} HW 6: Contaminant transport
+Thu, Apr 29, 2027
+: **Due**{: .label .label-purple} **Tentative homework deadline, 10:00 pm MST:** HW 6: Contaminant transport.
 
-May 1
-: Transport of PFAS in the vadose zone.
-
-Lecture slides: [PDF](../assets/lecture_slides/PFAS_3.pdf)
+Fri, Apr 30, 2027
+: **Lecture 38.** Transport of PFAS in the vadose zone.
+: Slides: [PDF]({{ "/assets/lecture_slides/PFAS_3.pdf" | relative_url }})

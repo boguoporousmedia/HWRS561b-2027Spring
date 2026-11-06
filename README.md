@@ -1,7 +1,9 @@
 
 <h2>Physical Hydrogeology II (University of Arizona), Spring 2027</h2>
 
-> **Preparation status:** Ty Ferre will teach the Spring 2027 offering. The schedule, calendar, syllabus, meeting information, and other dated course details below are retained from Spring 2026 and await confirmation before they are updated.
+> **Spring 2027 schedule:** Ty Ferre will teach M/W/F, 2:00–2:50 p.m. Arizona time. The first week (January 13–15) is reserved for the field trip; regular classroom meetings begin January 20. No classes meet January 18 or during spring break, March 6–14. See the [2027 schedule](schedule/) and [downloadable calendar](assets/calendar/calendar.ics).
+>
+> Topic pacing, homework dates, and the oral midterm are tentative. Use the dates on the 2027 schedule rather than dates printed in the retained 2026 handouts. The linked 2026 syllabus remains a reference pending the 2027 syllabus revision.
 >
 > Lecture recordings and annotated slides from 2026 are retained as supplementary learning resources. Editable originals, instructor solutions, answer plots, and exam materials are maintained separately and are excluded from this public repository.
 
@@ -14,17 +16,13 @@ Course files were copied from the 2026 repository at commit `dd2e48e8fc72ba18ed7
 
 <h3>2. Lecture location:</h3>
 
-> [John W. Harshbarger Bldg](https://www.google.com/maps/place/John+W.Harshbarger+Bldg,+Tucson,+AZ+85719/data=!4m2!3m1!1s0x86d67106e2b5fe29:0x5acbb11fa472c0af?sa=X&ved=2ahUKEwjJpeTT1euAAxXyJEQIHWBBAPsQ8gF6BAgSEAA&ved=2ahUKEwjJpeTT1euAAxXyJEQIHWBBAPsQ8gF6BAgTEAI), Rm 110
+> Classroom to be confirmed.
 
 <h3>3. Instructor:</h3>
 
-> **Bo Guo** (he/him)
+> **Ty Ferre** (he/him)
 >
-> Office hours: Wednesday 1:00 - 2:00 pm, Harshbarger 316F
->
-> E-mail: <a href="mailto:boguo@arizona.edu">boguo@arizona.edu</a>
->
-> Website: <a href="https://guolab.arizona.edu/">guolab.arizona.edu</a>
+> Office hours and course contact details: to be announced.
 
 <h3>4. Course Description:</h3>
 

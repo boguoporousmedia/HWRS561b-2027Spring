@@ -1,23 +1,18 @@
 ---
 title: Week 08
-module_title: "Module 3: Steady-state and transient variably saturated flow"
 ---
 
-Mar 2
-: Two-phase flow and Richards Equation.
+Mon, Mar 1, 2027
+: **Lecture 18.** Two-phase flow and Richards Equation.
+: Slides: [unannotated PDF]({{ "/assets/lecture_slides/Two-phase_flow&Richards_eqn_wo_annotation_2.pdf" | relative_url }}), [annotated PDF (2026)]({{ "/assets/lecture_slides/Two-phase_flow&Richards_eqn_w_annotation_2.pdf" | relative_url }})
 
-Mar 4
-: Two-phase flow and Richards Equation.
+Wed, Mar 3, 2027
+: **Lecture 19.** Steady-state 1D unsaturated flow.
+: Slides: [unannotated PDF]({{ "/assets/lecture_slides/Steady-state_1D_unsat_flow_wo_annotation_1.pdf" | relative_url }}), [annotated PDF (2026)]({{ "/assets/lecture_slides/Steady-state_1D_unsat_flow_w_annotation_1.pdf" | relative_url }})
 
-Mar 5
-: **Homework due**
-: **Due**{: .label .label-purple} HW 3: Pore-scale fluids distribution, macroscopic description, and Richards assumption
+Thu, Mar 4, 2027
+: **Due**{: .label .label-purple} **Tentative homework deadline, 10:00 pm MST:** HW 3: Pore-scale fluids distribution, macroscopic description, and Richards assumption.
 
-Mar 6
-: Steady-state 1D unsaturated flow.
-
-Lecture slides (March 2): [PDF(no annotation)](../assets/lecture_slides/Two-phase_flow&Richards_eqn_wo_annotation_1.pdf), [PDF(w annotation)](../assets/lecture_slides/Two-phase_flow&Richards_eqn_w_annotation_1.pdf)
-
-Lecture slides (March 4): [PDF(no annotation)](../assets/lecture_slides/Two-phase_flow&Richards_eqn_wo_annotation_2.pdf), [PDF(w annotation)](../assets/lecture_slides/Two-phase_flow&Richards_eqn_w_annotation_2.pdf)
-
-Lecture slides (March 6): [PDF(no annotation)](../assets/lecture_slides/Steady-state_1D_unsat_flow_wo_annotation_1.pdf), [PDF(w annotation)](../assets/lecture_slides/Steady-state_1D_unsat_flow_w_annotation_1.pdf)
+Fri, Mar 5, 2027
+: **Lecture 20.** Steady-state 1D unsaturated flow.
+: Slides: [PDF (2026)]({{ "/assets/lecture_slides/Steady-state_1D_unsat_flow_w_annotation_2.pdf" | relative_url }})

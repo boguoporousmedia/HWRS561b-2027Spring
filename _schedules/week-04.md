@@ -2,24 +2,17 @@
 title: Week 04
 ---
 
-Feb 2
-: Conservative solute transport: Analytical solutions, breakthrough curves.
+Mon, Feb 1, 2027
+: **Lecture 6.** Non-conservative solute transport: retardation, kinetic/equilibrium adsorption
+: Slides: [unannotated PDF]({{ "/assets/lecture_slides/Solute_transport-wo-annotation_3.pdf" | relative_url }}), [annotated PDF (2026)]({{ "/assets/lecture_slides/Solute_transport-w-annotation_3.pdf" | relative_url }})
 
-Feb 3
-: Special lecture: Conservative solute transport: Analytical solutions, breakthrough curves.
+Wed, Feb 3, 2027
+: **Lecture 7.** Non-conservative solute transport: Analytical solutions, breakthrough curves.
+: Slides: [unannotated PDF]({{ "/assets/lecture_slides/Solute_transport-wo-annotation_4.pdf" | relative_url }}), [annotated PDF (2026)]({{ "/assets/lecture_slides/Solute_transport-w-annotation_4.pdf" | relative_url }})
 
-Feb 4
-: Non-conservative solute transport: retardation, kinetic/equilibrium adsorption
+Thu, Feb 4, 2027
+: **Due**{: .label .label-purple} **Tentative homework deadline, 10:00 pm MST:** HW 1: Solute transport 1.
 
-Feb 5
-: **Homework due**
-: **Due**{: .label .label-purple} HW 1: Solute transport 1
-
-Feb 6
-: Non-conservative solute transport: Analytical solutions, breakthrough curves.
-
-Lecture slides (Feb 2, 3, and 4): [PDF(no annotation)](../assets/lecture_slides/Solute_transport-wo-annotation_3.pdf), [PDF(w annotation)](../assets/lecture_slides/Solute_transport-w-annotation_3.pdf)
-
-Lecture slides (Feb 6): [PDF(no annotation)](../assets/lecture_slides/Solute_transport-wo-annotation_4.pdf), [PDF(w annotation)](../assets/lecture_slides/Solute_transport-w-annotation_4.pdf)
-
-Homework 2: [PDF]({{ "/assets/homework/homework2.pdf" | relative_url }}), <a href='{{ "/assets/homework/homework2.ipynb" | relative_url }}' download='homework2.ipynb'>Jupyter Notebook</a>
+Fri, Feb 5, 2027
+: **Lecture 8.** Non-conservative solute transport: Analytical solutions, breakthrough curves.
+: Slides: [unannotated PDF]({{ "/assets/lecture_slides/Solute_transport-wo-annotation_4.pdf" | relative_url }}), [annotated PDF (2026)]({{ "/assets/lecture_slides/Solute_transport-w-annotation_4.pdf" | relative_url }})

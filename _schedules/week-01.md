@@ -1,12 +1,9 @@
 ---
 title: Week 01
-module_title: "Module 1: Solute transport in saturated media"
 ---
 
-Jan 14
-: Field trip - No class
+Wed, Jan 13, 2027
+: Field trip; no classroom meeting.
 
-Jan 16
-: Field trip - No class
-
-Lecture slides: [None]
+Fri, Jan 15, 2027
+: Field trip; no classroom meeting.

@@ -2,11 +2,11 @@
 title: Week 09
 ---
 
-Mar 9
-: No class: Spring break
+Mon, Mar 8, 2027
+: Spring break; no classes.
 
-Mar 11
-: No class: Spring break
+Wed, Mar 10, 2027
+: Spring break; no classes.
 
-Mar 13
-: No class: Spring break
+Fri, Mar 12, 2027
+: Spring break; no classes.

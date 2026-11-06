@@ -1,19 +1,20 @@
 ---
 title: Week 14
-module_title: "Module 4: Risk assessment of contaminant transport in the vadose zone and groundwater"
 ---
 
-Apr 13
-: Transport of PFAS in the vadose zone.
+<h2 class="fs-4 mt-4 module-title">Module 4: Risk assessment of contaminant transport in the vadose zone and groundwater</h2>
 
-Apr 15
-: Transport of PFAS in the vadose zone.
+Mon, Apr 12, 2027
+: **Lecture 30.** Transport of PFAS in the vadose zone.
+: Slides: [PDF]({{ "/assets/lecture_slides/PFAS_1.pdf" | relative_url }})
 
-Apr 16
-: **Homework due**
-: **Due**{: .label .label-purple} HW 5: Use Hydrus-1D to understand unsat flow
+Wed, Apr 14, 2027
+: **Lecture 31.** Transport of PFAS in the vadose zone.
+: Slides: [PDF]({{ "/assets/lecture_slides/PFAS_1.pdf" | relative_url }})
 
-Apr 17
-: Transport of PFAS in the vadose zone.
+Thu, Apr 15, 2027
+: **Due**{: .label .label-purple} **Tentative homework deadline, 10:00 pm MST:** HW 5: Use HYDRUS-1D to understand unsaturated flow.
 
-Lecture slides (April 13): [PDF](../assets/lecture_slides/PFAS_1.pdf)
+Fri, Apr 16, 2027
+: **Lecture 32.** Transport of PFAS in the vadose zone.
+: Slides: [PDF]({{ "/assets/lecture_slides/PFAS_1.pdf" | relative_url }})

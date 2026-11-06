@@ -2,19 +2,17 @@
 title: Week 12
 ---
 
-Mar 30
-: HYDRUS-1D recorded video tutorial and exercise (no lecture)
+Mon, Mar 29, 2027
+: HYDRUS-1D recorded tutorial and preparation exercise
+: Slides: [exercise PDF]({{ "/assets/lecture_slides/Transient_1D_unsat_flow_4(HYDRUS_exercise).pdf" | relative_url }})
 
-Apr 1
-: In-class HYDRUS-1D exercise.
+Wed, Mar 31, 2027
+: **Lecture 25.** In-class HYDRUS-1D exercise.
+: Slides: [exercise PDF]({{ "/assets/lecture_slides/Transient_1D_unsat_flow_4(HYDRUS_exercise).pdf" | relative_url }})
 
-April 2
-: **Homework due**
-: **Due**{: .label .label-purple} HW 4: Richards equation and unsaturated flow
+Thu, Apr 1, 2027
+: **Due**{: .label .label-purple} **Tentative homework deadline, 10:00 pm MST:** HW 4: Richards equation and unsaturated flow.
 
-Apr 3
-: Inverse modeling using HYDRUS-1D
-
-Lecture slides (March 30 and April 1): [PDF](../assets/lecture_slides/Transient_1D_unsat_flow_4(HYDRUS_exercise).pdf)
-
-Lecture slides (April 3): [PDF](../assets/lecture_slides/Inverse_modeling_1.pdf)
+Fri, Apr 2, 2027
+: **Lecture 26.** Inverse modeling using HYDRUS-1D
+: Slides: [PDF]({{ "/assets/lecture_slides/Inverse_modeling_1.pdf" | relative_url }})

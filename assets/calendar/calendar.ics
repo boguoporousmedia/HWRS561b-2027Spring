@@ -1,9 +1,9 @@
 BEGIN:VCALENDAR
-PRODID:-//HWRS 561b//Course Calendar//EN
+PRODID:-//HWRS 561b//Spring 2027 Course Calendar//EN
 VERSION:2.0
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:HWRS 561b (Spring 2026)
+X-WR-CALNAME:HWRS 561b (Spring 2027)
 X-WR-TIMEZONE:America/Phoenix
 BEGIN:VTIMEZONE
 TZID:America/Phoenix
@@ -16,57 +16,765 @@ DTSTART:19700101T000000
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART;TZID=America/Phoenix:20260203T093000
-DTEND;TZID=America/Phoenix:20260203T111000
-DTSTAMP:20260114T175105Z
-UID:hwrs561b-special-1-2026@guolab
-CREATED:20250101T000000Z
-LAST-MODIFIED:20260114T175105Z
-LOCATION:John W. Harshbarger Bldg, Rm 110
+UID:hwrs561b-field-trip-2027@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:HWRS 561b Physical Hydrogeology II (Special lecture)
+SUMMARY:HWRS 561b: first-week field trip
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270116
+DESCRIPTION:First instructional week is reserved for the field trip. No reg
+ ular classroom lecture on January 13 or 15. Field-trip times and logistics
+  will be announced.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Phoenix:20260210T093000
-DTEND;TZID=America/Phoenix:20260210T102000
-DTSTAMP:20260114T175105Z
-UID:hwrs561b-special-2-2026@guolab
-CREATED:20250101T000000Z
-LAST-MODIFIED:20260114T175105Z
-LOCATION:John W. Harshbarger Bldg, Rm 110
+UID:hwrs561b-mlk-2027@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:HWRS 561b Physical Hydrogeology II (Special lecture)
+SUMMARY:MLK holiday: no classes
+DTSTART;VALUE=DATE:20270118
+DTEND;VALUE=DATE:20270119
+DESCRIPTION:https://studentaffairs.arizona.edu/important-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-spring-break-2027@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Spring break: no classes
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270315
+DESCRIPTION:https://studentaffairs.arizona.edu/important-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270120@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Conservative solute transport: Pore-scale controls\, mac
+ roscopic formulation\, governing equations\, BCs\, 1D Taylor-Aris dispersi
+ on
+DTSTART;TZID=America/Phoenix:20270120T140000
+DTEND;TZID=America/Phoenix:20270120T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 1 from Bo Guo’s 2026 course.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Phoenix:20260224T093000
-DTEND;TZID=America/Phoenix:20260224T102000
-DTSTAMP:20260114T175105Z
-UID:hwrs561b-special-3-2026@guolab
-CREATED:20250101T000000Z
-LAST-MODIFIED:20260114T175105Z
-LOCATION:John W. Harshbarger Bldg, Rm 110
+UID:hwrs561b-class-20270122@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:HWRS 561b Physical Hydrogeology II (Special lecture)
+SUMMARY:HWRS 561b: Conservative solute transport: Pore-scale controls\, mac
+ roscopic formulation\, governing equations\, BCs\, 1D Taylor-Aris dispersi
+ on
+DTSTART;TZID=America/Phoenix:20270122T140000
+DTEND;TZID=America/Phoenix:20270122T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 2 from Bo Guo’s 2026 course.
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=America/Phoenix:20260121T140000
-DTEND;TZID=America/Phoenix:20260121T145000
-RRULE:FREQ=WEEKLY;WKST=SU;UNTIL=20260501T215000Z;BYDAY=MO,WE,FR
-EXDATE;TZID=America/Phoenix:20260119T140000,20260128T140000,20260130T140000,20260213T140000,20260309T140000,20260311T140000,20260313T140000,20260327T140000
-DTSTAMP:20260114T175105Z
-UID:hwrs561b-regular-2026@guolab
-CREATED:20250101T000000Z
-LAST-MODIFIED:20260114T175105Z
-LOCATION:John W. Harshbarger Bldg, Rm 110
+UID:hwrs561b-class-20270125@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:HWRS 561b Physical Hydrogeology II
+SUMMARY:HWRS 561b: Conservative solute transport: Analytical solutions\, br
+ eakthrough curves.
+DTSTART;TZID=America/Phoenix:20270125T140000
+DTEND;TZID=America/Phoenix:20270125T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 3 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270127@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Conservative solute transport: Analytical solutions\, br
+ eakthrough curves.
+DTSTART;TZID=America/Phoenix:20270127T140000
+DTEND;TZID=America/Phoenix:20270127T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 4 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270129@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Conservative solute transport: Analytical solutions\, br
+ eakthrough curves.
+DTSTART;TZID=America/Phoenix:20270129T140000
+DTEND;TZID=America/Phoenix:20270129T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 5 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270201@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Non-conservative solute transport: retardation\, kinetic
+ /equilibrium adsorption
+DTSTART;TZID=America/Phoenix:20270201T140000
+DTEND;TZID=America/Phoenix:20270201T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 6 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270203@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Non-conservative solute transport: Analytical solutions\
+ , breakthrough curves.
+DTSTART;TZID=America/Phoenix:20270203T140000
+DTEND;TZID=America/Phoenix:20270203T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 7 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270205@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Non-conservative solute transport: Analytical solutions\
+ , breakthrough curves.
+DTSTART;TZID=America/Phoenix:20270205T140000
+DTEND;TZID=America/Phoenix:20270205T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 8 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270208@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Non-conservative solute transport: Analytical solutions\
+ , breakthrough curves.
+DTSTART;TZID=America/Phoenix:20270208T140000
+DTEND;TZID=America/Phoenix:20270208T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 9 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270210@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Pore-scale fluids distribution (capillary tubes).
+DTSTART;TZID=America/Phoenix:20270210T140000
+DTEND;TZID=America/Phoenix:20270210T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 10 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270212@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Pore-scale fluids distribution (capillary tubes)
+DTSTART;TZID=America/Phoenix:20270212T140000
+DTEND;TZID=America/Phoenix:20270212T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 11 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270215@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Pore-scale fluids distribution (capillary tubes)
+DTSTART;TZID=America/Phoenix:20270215T140000
+DTEND;TZID=America/Phoenix:20270215T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 12 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270217@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Macroscopic descriptions of air/water distribution
+DTSTART;TZID=America/Phoenix:20270217T140000
+DTEND;TZID=America/Phoenix:20270217T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 13 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270219@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Macroscopic descriptions of air/water distribution
+DTSTART;TZID=America/Phoenix:20270219T140000
+DTEND;TZID=America/Phoenix:20270219T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 14 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270222@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Macroscopic descriptions of air/water distribution.
+DTSTART;TZID=America/Phoenix:20270222T140000
+DTEND;TZID=America/Phoenix:20270222T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 15 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270224@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Macroscopic descriptions of air/water distribution.
+DTSTART;TZID=America/Phoenix:20270224T140000
+DTEND;TZID=America/Phoenix:20270224T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 16 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270226@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Two-phase flow and Richards Equation.
+DTSTART;TZID=America/Phoenix:20270226T140000
+DTEND;TZID=America/Phoenix:20270226T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 17 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270301@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Two-phase flow and Richards Equation.
+DTSTART;TZID=America/Phoenix:20270301T140000
+DTEND;TZID=America/Phoenix:20270301T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 18 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270303@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Steady-state 1D unsaturated flow.
+DTSTART;TZID=America/Phoenix:20270303T140000
+DTEND;TZID=America/Phoenix:20270303T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 19 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270305@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Steady-state 1D unsaturated flow.
+DTSTART;TZID=America/Phoenix:20270305T140000
+DTEND;TZID=America/Phoenix:20270305T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 20 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270315@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Transient 1D unsaturated flow. Scenario analysis.
+DTSTART;TZID=America/Phoenix:20270315T140000
+DTEND;TZID=America/Phoenix:20270315T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 21 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270317@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Midterm review and discussion
+DTSTART;TZID=America/Phoenix:20270317T140000
+DTEND;TZID=America/Phoenix:20270317T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270319@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:HWRS 561b: Midterm exam (oral\, tentative)
+DTSTART;TZID=America/Phoenix:20270319T140000
+DTEND;TZID=America/Phoenix:20270319T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270322@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Transient 1D unsaturated flow. Simplified models (Green-
+ Ampt\, Philip's models).
+DTSTART;TZID=America/Phoenix:20270322T140000
+DTEND;TZID=America/Phoenix:20270322T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 22 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270324@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Transient 1D unsaturated flow. Simplified models (Green-
+ Ampt\, Philip's models).
+DTSTART;TZID=America/Phoenix:20270324T140000
+DTEND;TZID=America/Phoenix:20270324T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 23 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270326@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Transient 1D unsaturated flow. Numerical solutions of Ri
+ chards equation.
+DTSTART;TZID=America/Phoenix:20270326T140000
+DTEND;TZID=America/Phoenix:20270326T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 24 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270329@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: HYDRUS-1D recorded tutorial and preparation exercise
+DTSTART;TZID=America/Phoenix:20270329T140000
+DTEND;TZID=America/Phoenix:20270329T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270331@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: In-class HYDRUS-1D exercise.
+DTSTART;TZID=America/Phoenix:20270331T140000
+DTEND;TZID=America/Phoenix:20270331T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 25 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270402@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Inverse modeling using HYDRUS-1D
+DTSTART;TZID=America/Phoenix:20270402T140000
+DTEND;TZID=America/Phoenix:20270402T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 26 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270405@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Inverse modeling using HYDRUS-1D
+DTSTART;TZID=America/Phoenix:20270405T140000
+DTEND;TZID=America/Phoenix:20270405T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 27 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270407@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Unsaturated flow in multidimensions.
+DTSTART;TZID=America/Phoenix:20270407T140000
+DTEND;TZID=America/Phoenix:20270407T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 28 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270409@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Solute transport with unsaturated flow.
+DTSTART;TZID=America/Phoenix:20270409T140000
+DTEND;TZID=America/Phoenix:20270409T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 29 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270412@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Transport of PFAS in the vadose zone.
+DTSTART;TZID=America/Phoenix:20270412T140000
+DTEND;TZID=America/Phoenix:20270412T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 30 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270414@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Transport of PFAS in the vadose zone.
+DTSTART;TZID=America/Phoenix:20270414T140000
+DTEND;TZID=America/Phoenix:20270414T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 31 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270416@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Transport of PFAS in the vadose zone.
+DTSTART;TZID=America/Phoenix:20270416T140000
+DTEND;TZID=America/Phoenix:20270416T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 32 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270419@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Transport of PFAS in the vadose zone.
+DTSTART;TZID=America/Phoenix:20270419T140000
+DTEND;TZID=America/Phoenix:20270419T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 33 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270421@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Transport of PFAS in the vadose zone.
+DTSTART;TZID=America/Phoenix:20270421T140000
+DTEND;TZID=America/Phoenix:20270421T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 34 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270423@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Transport of PFAS in the vadose zone.
+DTSTART;TZID=America/Phoenix:20270423T140000
+DTEND;TZID=America/Phoenix:20270423T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 35 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270426@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Transport of PFAS in the vadose zone.
+DTSTART;TZID=America/Phoenix:20270426T140000
+DTEND;TZID=America/Phoenix:20270426T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 36 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270428@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Transport of PFAS in the vadose zone.
+DTSTART;TZID=America/Phoenix:20270428T140000
+DTEND;TZID=America/Phoenix:20270428T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 37 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270430@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Transport of PFAS in the vadose zone.
+DTSTART;TZID=America/Phoenix:20270430T140000
+DTEND;TZID=America/Phoenix:20270430T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed. Supplementary recording: lecture 38 from Bo Guo’s 2026 course.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270503@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Course review
+DTSTART;TZID=America/Phoenix:20270503T140000
+DTEND;TZID=America/Phoenix:20270503T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-class-20270505@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: Course review
+DTSTART;TZID=America/Phoenix:20270505T140000
+DTEND;TZID=America/Phoenix:20270505T145000
+DESCRIPTION:Ty Ferre. Regular meeting time: M/W/F\, 2:00–2:50 p.m. Arizon
+ a time. Topic pacing and assessment dates are tentative. Classroom to be c
+ onfirmed.
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-hw1-due-2027@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:HWRS 561b: HW 1 due (tentative)
+DTSTART;TZID=America/Phoenix:20270204T220000
+DTEND;TZID=America/Phoenix:20270204T220100
+DESCRIPTION:Due at 10 p.m. Arizona time. Solute transport 1. The 2027 sched
+ ule governs assignment dates\; printed 2026 handout dates are historical.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-hw2-due-2027@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:HWRS 561b: HW 2 due (tentative)
+DTSTART;TZID=America/Phoenix:20270218T220000
+DTEND;TZID=America/Phoenix:20270218T220100
+DESCRIPTION:Due at 10 p.m. Arizona time. Solute transport 2. The 2027 sched
+ ule governs assignment dates\; printed 2026 handout dates are historical.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-hw3-due-2027@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:HWRS 561b: HW 3 due (tentative)
+DTSTART;TZID=America/Phoenix:20270304T220000
+DTEND;TZID=America/Phoenix:20270304T220100
+DESCRIPTION:Due at 10 p.m. Arizona time. Pore-scale fluids distribution\, m
+ acroscopic description\, and Richards assumption. The 2027 schedule govern
+ s assignment dates\; printed 2026 handout dates are historical.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-hw4-due-2027@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:HWRS 561b: HW 4 due (tentative)
+DTSTART;TZID=America/Phoenix:20270401T220000
+DTEND;TZID=America/Phoenix:20270401T220100
+DESCRIPTION:Due at 10 p.m. Arizona time. Richards equation and unsaturated 
+ flow. The 2027 schedule governs assignment dates\; printed 2026 handout da
+ tes are historical.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-hw5-due-2027@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:HWRS 561b: HW 5 due (tentative)
+DTSTART;TZID=America/Phoenix:20270415T220000
+DTEND;TZID=America/Phoenix:20270415T220100
+DESCRIPTION:Due at 10 p.m. Arizona time. Use HYDRUS-1D to understand unsatu
+ rated flow. The 2027 schedule governs assignment dates\; printed 2026 hand
+ out dates are historical.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-hw6-due-2027@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:TENTATIVE
+SUMMARY:HWRS 561b: HW 6 due (tentative)
+DTSTART;TZID=America/Phoenix:20270429T220000
+DTEND;TZID=America/Phoenix:20270429T220100
+DESCRIPTION:Due at 10 p.m. Arizona time. Contaminant transport. The 2027 sc
+ hedule governs assignment dates\; printed 2026 handout dates are historica
+ l.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-reading-day-2027@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Reading day: no classes or finals
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+DESCRIPTION:https://studentaffairs.arizona.edu/important-dates
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:hwrs561b-final-2027@guolab
+DTSTAMP:20261106T215941Z
+LAST-MODIFIED:20261106T215941Z
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:HWRS 561b: final exam
+DTSTART;TZID=America/Phoenix:20270507T130000
+DTEND;TZID=America/Phoenix:20270507T150000
+DESCRIPTION:Standard University of Arizona final-exam slot for MWF 2 p.m. c
+ lasses. https://registrar.arizona.edu/faculty-staff-resources/room-course-
+ scheduling/schedule-classes/final-exams/final-exams-spring-2027
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
