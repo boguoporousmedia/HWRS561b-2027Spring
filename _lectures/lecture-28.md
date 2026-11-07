@@ -2,6 +2,6 @@
 title: "Lecture #28: Unsaturated flow in multidimensions."
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Apr 8, 2026, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Apr 7, 2027, 2:00 pm to 2:50 pm (Ty Ferré)
 
-- [Recording: [Video]](https://arizona.zoom.us/rec/share/cGiCDkcEX8wAJuEsK5-crgyuSqrgf7cUwrNE1wXG6rSbqY3M_xbzyL1WB47YrBLC.OKvID6iXpeoJg0Ya)
+- Recording: Not yet available.

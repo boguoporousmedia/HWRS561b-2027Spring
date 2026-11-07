@@ -7511,18 +7511,18 @@ a.anchor-link {
 <!-- End of mermaid configuration --></head>
 <body class="jp-Notebook" data-jp-theme-light="true" data-jp-theme-name="JupyterLab Light">
 <main>
-<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=67191f60">
+<div class="jp-Cell jp-MarkdownCell jp-Notebook-cell" id="cell-id=0d88c43b">
 <div class="jp-Cell-inputWrapper" tabindex="0">
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput" data-mime-type="text/markdown">
 <h2 id="HWRS-561b-Homework-%235-%7B-%7D">HWRS 561b Homework #5 {-}<a class="anchor-link" href="#HWRS-561b-Homework-%235-%7B-%7D">¶</a></h2><ul>
-<li>Assigned: Sunday, 5 April 2026</li>
-<li>Due: Thursday, 16 April 2026 (upload answers in PDF or Jupyter Notebook to D2L)</li>
-<li>Instructor: Bo Guo</li>
-<li>Teaching Assistant: Aldo Andres Tapia Araya</li>
-<li>Semester: Spring 2026</li>
+<li>Assigned: Monday, 5 April 2027</li>
+<li>Due: Thursday, 15 April 2027 at 10:00 pm MST (tentative; upload answers in PDF or Jupyter Notebook to D2L)</li>
+<li>Instructor: Ty Ferré (tyferre@arizona.edu)</li>
+<li>Teaching Assistant: Nathan Strom (nstrom@arizona.edu)</li>
+<li>Semester: Spring 2027</li>
 </ul>
 </div>
 </div>
@@ -7560,6 +7560,8 @@ $$</p>
 \theta_s = 0.43,\qquad
 \alpha = 0.145\ \text{cm}^{-1} = 14.5\ \text{m}^{-1},\qquad
 n = 2.68,\qquad
+$$</p>
+<p>$$
 m = 1-\frac{1}{n}=0.627,\qquad
 l = 0.5,
 $$</p>
@@ -7613,7 +7615,7 @@ $$</p>
 <p>$$
 \theta_i^{n+1,1}\approx \theta_i^{n+1,0}+C_i^{n+1,0}\left(h_i^{n+1,1}-h_i^{n+1,0}\right),
 $$</p>
-<p>using the frozen values of $\theta_i^{n+1,0}$, $C_i^{n+1,0}$, and $K_{i+1/2}^{n+1,0}$ given above. Assemble the resulting $2\times2$ linear system and solve for the first Picard iterate $h_2^{n+1,1}$ and $h_3^{n+1,1}$. Then compare the computed heads with the initial condition and explain physically why the larger change occurs where it does. Furthermore, explain in words (no need to actually calculate) how you would move forward to obtain the converged solution for time step $n+1$.</p>
+<p>using the frozen values of $\theta_i^{n+1,0}$, $C_i^{n+1,0}$, and $K_{i+1/2}^{n+1,0}$ given above. Assemble the resulting $4\times4$ linear system and solve for the first Picard iterate $h_2^{n+1,1}$ and $h_3^{n+1,1}$ ($h_1^{n+1,1}$ and $h_4^{n+1,1}$ are given from boundary conditions). Furthermore, explain in words (no need to actually calculate) how you would move forward to obtain the converged solution for time step $n+1$.</p>
 </li>
 <li><p>(20 points) Construct a 100 cm long vertical column in HYDRUS-1D. Fill it with the default sand, initially at field capacity. Apply an infiltration flux equal to $K_{sat}/10$ at the top boundary. Apply a physically natural bottom boundary condition and justify your choice.</p>
 <p>You can find hydraulic parameters for the default sand in HYDRUS (e.g., $K_{sat}=0.00825$ cm/s). In HYDRUS, a negative top flux represents infiltration and a positive top flux represents evapotranspiration. For the hand calculation, determine the water content in the wetted region from the van Genuchten-Mualem functions for the default sand.</p>
@@ -7626,7 +7628,7 @@ $$</p>
 </li>
 </ul>
 </li>
-<li><p>(20 points) Use HYDRUS-1D to construct a model of a 1 m long sand profile with the default sand parameters. The profile is initially fully saturated with a constant pressure head of 0 cm. Impose free drainage at the bottom boundary. At time $t=0$, apply a zero-flux top boundary condition and simulate 10000 s. Include an observation node at 50 cm depth.</p>
+<li><p>(20 points) Use HYDRUS-1D to construct a model of a 1 m long sand profile with the default sand parameters. The profile is initially fully saturated with a constant pressure head of 0 cm. Impose free drainage at the bottom boundary. At time $t=0$, apply a zero-flux top boundary condition and simulate 10,000 s. Include an observation node at 50 cm depth.</p>
 <ul>
 <li><p>(a) (8 points) Plot the water content at 50 cm depth as a function of time. Then assume that the water content remains uniform throughout the domain during drainage. Based on mass balance, use the water-content time series at the observation node to estimate the bottom flux as a function of time. In addition, compute the flux using the same approach from Problem 5(c) in Homework 4. On the same axes, plot the bottom flux reported directly by HYDRUS and the two fluxes you computed. Comment on the differences between the three flux estimates.</p>
 </li>
@@ -7636,8 +7638,7 @@ $$</p>
 </li>
 </ul>
 </li>
-<li><p>(20 points) HYDRUS-1D inverse modeling of van Genuchten parameters.</p>
-<p>Use HYDRUS-1D to estimate van Genuchten parameters for the default sand by inverse modeling. Base this problem on the same 1 m drainage experiment from Problem 4: the profile is initially fully saturated with a constant pressure head of 0 cm, the top boundary is zero flux for $t&gt;0$, the bottom boundary is free drainage, the total simulation time is 10000 s, and there are three observation nodes at 25 cm, 50 cm, and 75 cm depths. Treat the forward simulation with the default sand as the synthetic "measured" data set.</p>
+<li><p>(20 points) Use HYDRUS-1D to estimate van Genuchten parameters for the default sand by inverse modeling. Base this problem on the same 1 m drainage experiment from Problem 4: the profile is initially fully saturated with a constant pressure head of 0 cm, the top boundary is zero flux for $t&gt;0$, the bottom boundary is free drainage, the total simulation time is 10,000 s, and there are three observation nodes at 25 cm, 50 cm, and 75 cm depths. Treat the forward simulation with the default sand as the synthetic "measured" data set.</p>
 <p>Suggested approach for measurement noise: after exporting the synthetic water content data, you may optionally add Gaussian noise to mimic measurement error using</p>
 <p>$$
 \theta_{obs}=\theta_{true}+\varepsilon,\qquad \varepsilon\sim\mathcal{N}(0,\sigma_\theta^2).

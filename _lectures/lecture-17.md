@@ -2,6 +2,6 @@
 title: "Lecture #17: Two-phase flow and Richards Equation."
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mon, Mar 2, 2026, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fri, Feb 26, 2027, 2:00 pm to 2:50 pm (Ty Ferré)
 
-- [Recording: [Video]](https://arizona.zoom.us/rec/share/ZU4LekolVrtxJKkYmjvxeOdraNQL_DgDlmSvtvqxlBiQSjgBuYCJF2vpYBRgeuIl.sDnQWFOc76OizNvr)
+- Recording: Not yet available.

@@ -2,6 +2,6 @@
 title: "Lecture #24: Transient 1D unsaturated flow. Numerical solutions of Richards equation."
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fri, Mar 27, 2026, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fri, Mar 26, 2027, 2:00 pm to 2:50 pm (Ty Ferré)
 
-- [Recording: [Video]](https://arizona.zoom.us/rec/share/TOjJ2bptZMrdRcLrbMzO54kdFfyoZW9mwuBubUy6a6iZbt0FaaZSEEM_9rDnogc-.3tzN_p3fXipem85G)
+- Recording: Not yet available.

@@ -2,6 +2,6 @@
 title: "Lecture #25: In-class HYDRUS-1D exercise."
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Apr 1, 2026, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Mar 31, 2027, 2:00 pm to 2:50 pm (Ty Ferré)
 
-- [Recording: [Video]](https://arizona.zoom.us/rec/share/EMCxbLrqEpZxMDI0stec2CNn7muIRKXnAg4tRiHzPyCPn8JUvsoYINXfS_mhVZ7b.Bn0t0Z4SlzQi9DmY)
+- Recording: Not yet available.

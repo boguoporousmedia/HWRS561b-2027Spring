@@ -3,7 +3,7 @@ title: Week 12
 ---
 
 Mon, Mar 29, 2027
-: HYDRUS-1D recorded tutorial and preparation exercise
+: HYDRUS-1D tutorial and preparation exercise
 : Slides: [exercise PDF]({{ "/assets/lecture_slides/Transient_1D_unsat_flow_4(HYDRUS_exercise).pdf" | relative_url }})
 
 Wed, Mar 31, 2027

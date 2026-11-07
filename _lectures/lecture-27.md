@@ -2,6 +2,6 @@
 title: "Lecture #27: Inverse modeling using HYDRUS-1D"
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mon, Apr 6, 2026, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mon, Apr 5, 2027, 2:00 pm to 2:50 pm (Ty Ferré)
 
-- [Recording: [Video]](https://arizona.zoom.us/rec/share/RetUOjV3Trbwer1pTJ1_GHnx0_arIX15miDf1uqiY_oHCoI86-qKrqEhF0kBG4oR.LmxMKFMBjiduB7ST)
+- Recording: Not yet available.

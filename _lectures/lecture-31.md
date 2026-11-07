@@ -2,6 +2,6 @@
 title: "Lecture #31: Transport of PFAS in the vadose zone."
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Apr 15, 2026, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Apr 14, 2027, 2:00 pm to 2:50 pm (Ty Ferré)
 
-- [Recording: [Video]](https://arizona.zoom.us/rec/share/ecEox8TIKMx6aLOBi-lbKxlPEFOVDI9fOAUjrjdv2WgYPl2E0rvbhcec_OVBuppN._-vlumde4k0h34_o)
+- Recording: Not yet available.

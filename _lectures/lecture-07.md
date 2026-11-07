@@ -2,6 +2,6 @@
 title: "Lecture #07: Non-conservative solute transport: Analytical solutions, breakthrough curves."
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fri, Feb 6, 2026, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wed, Feb 3, 2027, 2:00 pm to 2:50 pm (Ty Ferré)
 
-- [Recording: [Video]](https://arizona.zoom.us/rec/share/popQQ9vwG2NVygDh_5mTSY35-4LrOB120m21cBljX0D4oQOOpNvizb2lKDTETZrw.xHsKmQlx58IgVwsJ?startTime=1770411639000)
+- Recording: Not yet available.

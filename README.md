@@ -1,15 +1,6 @@
 
 <h2>Physical Hydrogeology II (University of Arizona), Spring 2027</h2>
 
-> **Spring 2027 schedule:** Ty Ferre will teach M/W/F, 2:00–2:50 p.m. Arizona time. The first week (January 13–15) is reserved for the field trip; regular classroom meetings begin January 20. No classes meet January 18 or during spring break, March 6–14. See the [2027 schedule](schedule/) and [downloadable calendar](assets/calendar/calendar.ics).
->
-> Topic pacing, homework dates, and the oral midterm are tentative. Use the dates on the 2027 schedule rather than dates printed in the retained 2026 handouts. The linked 2026 syllabus remains a reference pending the 2027 syllabus revision.
->
-> Lecture recordings and annotated slides from 2026 are retained as supplementary learning resources. Editable originals, instructor solutions, answer plots, and exam materials are maintained separately and are excluded from this public repository.
-
-Course files were copied from the 2026 repository at commit `dd2e48e8fc72ba18ed735c5c3658b5f9f8d68f2c`, with fresh history for the 2027 offering.
-
-
 <h3>1. Lecture time:</h3>
 
 > [M/W/F 2:00 - 2:50 pm](assets/calendar/calendar.ics)
@@ -20,9 +11,17 @@ Course files were copied from the 2026 repository at commit `dd2e48e8fc72ba18ed7
 
 <h3>3. Instructor:</h3>
 
-> **Ty Ferre** (he/him)
+> **[Ty Ferré](https://has.arizona.edu/person/pa-ty-ferre)** (he/him)
 >
-> Office hours and course contact details: to be announced.
+> Office hours: By appointment
+>
+> E-mail: <a href="mailto:tyferre@arizona.edu">tyferre@arizona.edu</a>
+>
+> Teaching Assistant: **[Nathan Strom](https://has.arizona.edu/person/nathan-strom)**
+>
+> TA e-mail: <a href="mailto:nstrom@arizona.edu">nstrom@arizona.edu</a>
+>
+> TA office hours: To be announced.
 
 <h3>4. Course Description:</h3>
 

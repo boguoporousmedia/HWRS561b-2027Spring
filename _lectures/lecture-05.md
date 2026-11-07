@@ -1,7 +1,7 @@
 ---
-title: "Lecture #05: Special lecture: Conservative solute transport: Analytical solutions, breakthrough curves."
+title: "Lecture #05: Conservative solute transport: Analytical solutions, breakthrough curves."
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tue, Feb 3, 2026, 2:00 pm – 2:50 pm (Bo Guo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fri, Jan 29, 2027, 2:00 pm to 2:50 pm (Ty Ferré)
 
-- [Recording: [Video not available]]
+- Recording: Not yet available.

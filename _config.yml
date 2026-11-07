@@ -16,10 +16,10 @@
 title: HWRS 561b
 tagline: Physical Hydrogeology II
 description: A course website for HWRS 561b Physical Hydrogeology II at the University of Arizona
-author: Ty Ferre
+author: Ty Ferré
 baseurl: "/HWRS561b-2027Spring"
 url: "https://boguoporousmedia.github.io"
-exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "assets/exams", "exams", "math_study_guide.md"]
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "assets/exams", "exams", "math_study_guide.md", ".instructor_materials"]
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.5.4
@@ -28,10 +28,6 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-# Bo Guo:
-#   - 'https://guolab.arizona.edu/'
-# Sidian Chen:
-#   - 'https://sidianchen.github.io/'
   HWRS 561b on GitHub:
     - 'https://github.com/boguoporousmedia/HWRS561b-2027Spring'
 footer_content:
