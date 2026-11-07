@@ -2,8 +2,8 @@
 title: Week 01
 ---
 
-Wed, Jan 13, 2027
+Wed, Jan 13
 : Field trip; no classroom meeting.
 
-Fri, Jan 15, 2027
+Fri, Jan 15
 : Field trip; no classroom meeting.
