@@ -12,4 +12,4 @@ Thu, May 6
 : Reading Day; no classes.
 
 Fri, May 7
-: Final exam, 1:00 to 3:00 pm MST. See the official Spring 2027 final-exam schedule linked above.
+: Final exam, 1:00 to 3:00 pm MST.
