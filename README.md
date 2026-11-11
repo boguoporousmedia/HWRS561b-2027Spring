@@ -7,7 +7,7 @@
 
 <h3>2. Lecture location:</h3>
 
-> Classroom to be confirmed.
+> Harshbarger 110.
 
 <h3>3. Instructor:</h3>
 
